@@ -1,4 +1,4 @@
-// task.js
+
 
 document.addEventListener("DOMContentLoaded", function () {
   // Получаем необходимые элементы
